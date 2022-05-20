@@ -1,0 +1,14 @@
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\bin\Release\net6.0\FastPayDB.deps.json
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\bin\Release\net6.0\FastPayDB.runtimeconfig.json
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\bin\Release\net6.0\FastPayDB.dll
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\bin\Release\net6.0\FastPayDB.pdb
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.csproj.AssemblyReference.cache
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.AssemblyInfoInputs.cache
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.AssemblyInfo.cs
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.csproj.CoreCompileInputs.cache
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.dll
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\refint\FastPayDB.dll
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.pdb
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\FastPayDB.genruntimeconfig.cache
+C:\Users\Kero\Desktop\work\WEB\FastPay\FastPayDB\obj\Release\net6.0\ref\FastPayDB.dll

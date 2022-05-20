@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPay", "FastPay\FastPay.csproj", "{7F53045E-5442-4495-AB40-7C5F313236A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPayDB", "FastPayDB\FastPayDB.csproj", "{C456557F-D2C7-4EB3-BD56-756C949D354C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPayRepo", "FastPayRepo\FastPayRepo.csproj", "{201675C4-EBCA-4607-8D08-A80B6814749B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F53045E-5442-4495-AB40-7C5F313236A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F53045E-5442-4495-AB40-7C5F313236A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F53045E-5442-4495-AB40-7C5F313236A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F53045E-5442-4495-AB40-7C5F313236A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C456557F-D2C7-4EB3-BD56-756C949D354C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C456557F-D2C7-4EB3-BD56-756C949D354C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C456557F-D2C7-4EB3-BD56-756C949D354C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C456557F-D2C7-4EB3-BD56-756C949D354C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201675C4-EBCA-4607-8D08-A80B6814749B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201675C4-EBCA-4607-8D08-A80B6814749B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201675C4-EBCA-4607-8D08-A80B6814749B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201675C4-EBCA-4607-8D08-A80B6814749B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5411242-4656-4077-AA9F-D42CFF46CBC4}
+	EndGlobalSection
+EndGlobal
